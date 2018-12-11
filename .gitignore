@@ -1,0 +1,5 @@
+*.tfvars
+terraform.tfstate*
+.terraform*
+vault.yaml
+vault.env
